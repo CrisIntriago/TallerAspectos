@@ -1,6 +1,8 @@
 # TallerAspectos
 Taller Aspectos Diseño de Software
+
 Funcionamiento de Aspecto de ejemplo:
+El aspecto implementado por nosotros en el PDF y en los archivos del repositorio Logger.aj
 Aspecto
 ![image](https://github.com/CrisIntriago/TallerAspectos/assets/116392563/704f6e2d-8f0d-4f0e-a43b-611c70403e41)
 Ejecución
