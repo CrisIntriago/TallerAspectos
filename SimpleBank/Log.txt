@@ -1,0 +1,2 @@
+Tipo de transaccion: Transaccion   Hora: 10:31
+Tipo de transaccion: Retiro   Hora: 10:31
